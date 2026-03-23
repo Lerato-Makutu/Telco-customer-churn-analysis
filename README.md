@@ -41,7 +41,10 @@ SQL was used for data analysis and Tableau for visualizing insights through an i
 - Most used services: Phone, Internet, Streaming TV  
 - Highest churn services: Internet, Multiple Lines, Streaming TV
 
-  ### SQL Queries
+## Example Analysis Output
+
+### SQL Queries
+Below is a preview of the services with the highest churn rates  
 ![SQL Screenshot](IMAGES/churn_analysis_results.png)
 
 **City-Level & Service Analysis**  
@@ -74,7 +77,13 @@ SQL was used for data analysis and Tableau for visualizing insights through an i
 - Churn reasons and revenue lost  
 - City-level churn and service impact  
 
-**Dashboard:** [View on Tableau Public](IMAGES/dashboard_screenshot.png)
+## Example Analysis Output
+
+### Churn Analysis Dashboard
+Below is a preview of the Tableau dashboard visualizing churn, service usage, and customer behavior:  
+![Dashboard Screenshot](IMAGES/dashboard_screenshot.png)
+
+Explore the interactive dashboard here: [View on Tableau Public](#)  
 
 ## Conclusion
 Churned customers represent a minority but account for significant revenue loss.  
