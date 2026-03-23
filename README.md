@@ -63,7 +63,7 @@ SQL was used for data analysis and Tableau for visualizing insights through an i
 - Churn analysis and revenue impact  
 - City-level and service-level breakdowns  
 
-**SQL queries:** [View SQL Analysis](SQL/churn_analysis_results.png)
+**SQL queries:** [View SQL Analysis](SQL/Telco_analysis.sql)
 
 ## Tableau Dashboard
 - Total and churned customers by category  
