@@ -39,7 +39,10 @@ SQL was used for data analysis and Tableau for visualizing insights through an i
 - Month-to-month has highest churn: 42.71%  
 - Two-year has lowest churn: 2.85%  
 - Most used services: Phone, Internet, Streaming TV  
-- Highest churn services: Internet, Multiple Lines, Streaming TV  
+- Highest churn services: Internet, Multiple Lines, Streaming TV
+
+  ### SQL Queries
+![SQL Screenshot](IMAGES/churn_analysis_results.png)
 
 **City-Level & Service Analysis**  
 - Top cities by churned customers: Los Angeles, San Diego, San Francisco  
