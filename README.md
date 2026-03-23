@@ -83,8 +83,7 @@ Below is a preview of the services with the highest churn rates
 Below is a preview of the Tableau dashboard visualizing churn, service usage, and customer behavior:  
 ![Dashboard Screenshot](IMAGES/dashboard_screenshot.png)
 
-Explore the interactive dashboard here: [View on Tableau Public](#)  
-
+Explore the interactive dashboard here: [View on Tableau Public](https://public.tableau.com/views/CustomerChurnAnalysisDashboard_17742782641550/Dashboard1)
 ## Conclusion
 Churned customers represent a minority but account for significant revenue loss.  
 Month-to-month contracts, multiple service users, and customers moving to competitors contribute most to revenue loss.  
