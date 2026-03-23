@@ -63,7 +63,7 @@ SQL was used for data analysis and Tableau for visualizing insights through an i
 - Churn analysis and revenue impact  
 - City-level and service-level breakdowns  
 
-**SQL queries:** [View SQL Analysis](images/churn_analysis_results.png)
+**SQL queries:** [View SQL Analysis](IMAGES/churn_analysis_results.png)
 
 ## Tableau Dashboard
 - Total and churned customers by category  
@@ -71,7 +71,7 @@ SQL was used for data analysis and Tableau for visualizing insights through an i
 - Churn reasons and revenue lost  
 - City-level churn and service impact  
 
-**Dashboard:** [View on Tableau Public](images/dashboard_screenshot.png)
+**Dashboard:** [View on Tableau Public](IMAGES/dashboard_screenshot.png)
 
 ## Conclusion
 Churned customers represent a minority but account for significant revenue loss.  
