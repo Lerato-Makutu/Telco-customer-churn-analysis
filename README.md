@@ -1,4 +1,4 @@
-# Telco Customer Churn Analysis (Kaggle Dataset)
+# Telco Customer Churn Analysis
 
 ## Project Overview
 This project analyzes telco customer behavior to understand churn patterns, identify high-risk customer segments, and quantify revenue impact from churn.  
